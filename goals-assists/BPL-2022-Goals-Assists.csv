@@ -1,0 +1,94 @@
+Competition,Team,EventId,Player,Event,WGCFType,Mins,Secs,X,Y,X2,Y2,Opponent
+BPL Semi Pro 2021,Expose,1,Cece,Assist,Progressive,0,0,97,75,94,50,BJB FC
+BPL Semi Pro 2021,Expose,2,Tri,Goal,Progressive,0,0,93,51,99,52,BJB FC
+BPL Semi Pro 2021,Expose,3,M. Fikri,Assist,Progressive,0,0,97,18,85,49,BJB FC
+BPL Semi Pro 2021,Expose,4,Anggara,Goal,Progressive,0,0,83,55,97,57,BJB FC
+BPL Semi Pro 2021,Expose,5,Cece,Assist,Cut Back,0,0,99,66,86,49,BJB FC
+BPL Semi Pro 2021,Expose,6,Anggara,Goal,Cut Back,0,0,85,50,99,61,BJB FC
+BPL Semi Pro 2021,Expose,7,Tri,Assist,Normal,0,23,76,52,68,50,BJB FC
+BPL Semi Pro 2021,Expose,8,Anggara,Goal,Normal,0,23,68,49,98,57,BJB FC
+BPL Semi Pro 2021,Expose,9,Anggara,Assist,Long Pass,0,0,34,36,76,72,World Young United
+BPL Semi Pro 2021,Expose,10,Jiban,Goal,Long Pass,0,0,78,68,98,55,World Young United
+BPL Semi Pro 2021,Expose,11,M. Fikri,Assist,Crossing,0,0,82,92,92,38,World Young United
+BPL Semi Pro 2021,Expose,12,Budi,Goal,Crossing,0,0,91,37,100,55,World Young United
+BPL Semi Pro 2021,Expose,13,Jiban,Assist,Normal,0,0,83,67,79,51,World Young United
+BPL Semi Pro 2021,Expose,14,Anggara,Goal,Normal,0,0,79,54,99,43,World Young United
+BPL Semi Pro 2021,Expose,15,Budi,Goal,Normal,0,0,89,41,100,44,World Young United
+BPL Semi Pro 2021,Expose,16,Pogba,Assist,Normal,0,0,82,23,80,40,World Young United
+BPL Semi Pro 2021,Expose,17,Anggara,Goal,Normal,0,0,82,38,99,44,World Young United
+BPL Semi Pro 2021,Expose,18,Anggara,Goal,Penalty,0,0,88,49,99,41,Besi Tua
+BPL Semi Pro 2021,Expose,19,Anggara,Goal,Set Piece,0,0,78,19,99,58,Besi Tua
+BPL Semi Pro 2021,Expose,20,Anggara,Assist,Set Piece,0,0,74,76,95,40,Adios
+BPL Semi Pro 2021,Expose,21,Jiban,Goal,Set Piece,0,0,93,35,99,43,Adios
+BPL Semi Pro 2021,Expose,22,Anggara,Goal,Set Piece,0,0,79,45,99,42,X17
+BPL Semi Pro 2021,Expose,23,Anggara,Goal,Penalty,0,0,89,49,99,41,X17
+BPL Semi Pro 2021,Expose,24,Andri V,Assist,Crossing,0,0,84,94,97,44,Andir
+BPL Semi Pro 2021,Expose,25,Jiban,Goal,Crossing,0,0,96,44,99,46,Andir
+BPL Semi Pro 2021,Expose,26,Anggara,Goal,Set Piece,0,0,64,44,99,50,Andir
+BPL Semi Pro 2021,Expose,27,Anggara,Assist,Long Pass,0,23,33,41,80,59,Voetbal MR
+BPL Semi Pro 2021,Expose,28,Cece,Goal,Long Pass,0,23,90,41,98,46,Voetbal MR
+BPL Semi Pro 2021,Expose,29,Jiban,Assist,Cut Back,0,23,92,17,91,43,Voetbal MR
+BPL Semi Pro 2021,Expose,30,Tri,Goal,Cut Back,0,23,92,48,99,49,Voetbal MR
+BPL Semi Pro 2021,Expose,31,Eggi,Assist,Through Ball,0,23,78,62,88,59,Voetbal MR
+BPL Semi Pro 2021,Expose,32,Gio,Goal,Through Ball,0,23,91,57,100,45,Voetbal MR
+BPL Semi Pro 2021,Expose,33,Gio,Assist,Through Ball,0,23,73,74,86,48,Voetbal MR
+BPL Semi Pro 2021,Expose,34,Anggara,Goal,Through Ball,0,23,87,52,98,57,Voetbal MR
+BPL Semi Pro 2021,Expose,35,Anggara,Assist,Corner,0,23,99,96,93,39,Wakanda
+BPL Semi Pro 2021,Expose,36,Alfredo,Goal,Corner,0,23,92,36,99,54,Wakanda
+BPL Semi Pro 2021,Expose,37,M. Fikri,Assist,Cut Back,0,23,76,65,88,39,Wakanda
+BPL Semi Pro 2021,Expose,38,Anggara,Goal,Cut Back,0,23,87,40,99,43,Wakanda
+BPL Semi Pro 2021,Expose,39,Surya,Assist,Long Pass,0,23,34,49,81,65,Wakanda
+BPL Semi Pro 2021,Expose,40,Cece,Goal,Long Pass,0,23,91,58,98,51,Wakanda
+BPL Semi Pro 2021,Expose,41,Gio,Assist,Through Ball,0,23,98,70,89,59,Wakanda
+BPL Semi Pro 2021,Expose,42,Anggara,Goal,Through Ball,0,23,89,58,98,56,Wakanda
+BPL Semi Pro 2021,Expose,43,M. Fikri,Assist,Normal,0,23,70,16,94,54,Grizzly
+BPL Semi Pro 2021,Expose,44,Tri,Goal,Normal,0,23,92,55,99,53,Grizzly
+BPL Semi Pro 2021,Expose,45,Surya,Assist,Normal,0,23,97,11,94,56,Grizzly
+BPL Semi Pro 2021,Expose,46,M. Ibrahim,Goal,Normal,0,23,91,58,99,52,Grizzly
+BPL Semi Pro 2021,Expose,47,Karnos,Assist,Normal,0,23,58,94,80,64,Grizzly
+BPL Semi Pro 2021,Expose,48,M. Ibrahim,Goal,Normal,0,23,87,69,98,43,Grizzly
+BPL Semi Pro 2021,Expose,49,Fadzri,Assist,Through Ball,0,23,67,58,86,63,Grizzly
+BPL Semi Pro 2021,Expose,50,M. Ibrahim,Goal,Through Ball,0,23,88,62,98,45,Grizzly
+BPL Semi Pro 2021,Expose,51,M. Fikri,Assist,Normal,0,23,97,15,97,45,Covid 17
+BPL Semi Pro 2021,Expose,52,Sanji,Goal,Normal,0,23,96,44,99,46,Covid 17
+BPL Semi Pro 2021,Expose,53,Cece,Goal,Penalty,0,23,89,50,99,57,Covid 17
+BPL Semi Pro 2021,Expose,54,Cece,Assist,Progressive,0,23,96,24,96,44,Prima
+BPL Semi Pro 2021,Expose,55,M. Ibrahim,Goal,Progressive,0,23,95,44,100,49,Prima
+BPL Semi Pro 2021,Expose,56,M. Fikri,Assist,Crossing,0,23,72,18,90,67,Prima
+BPL Semi Pro 2021,Expose,57,Anggara,Goal,Crossing,0,23,90,63,99,50,Prima
+BPL Semi Pro 2021,Expose,58,Agil,Assist,Cut Back,0,23,98,25,95,45,Prima
+BPL Semi Pro 2021,Expose,59,M. Ibrahim,Goal,Cut Back,0,23,92,44,99,46,Prima
+BPL Semi Pro 2021,Expose,60,Beto,Assist,Normal,0,23,88,24,95,53,Ortu
+BPL Semi Pro 2021,Expose,61,M. Ibrahim,Goal,Normal,0,23,93,57,98,54,Ortu
+BPL Semi Pro 2021,Expose,62,Andri V,Assist,Crossing,0,25,80,92,91,45,B-One
+BPL Semi Pro 2021,Expose,63,Tri,Goal,Crossing,0,25,90,46,99,50,B-One
+BPL Semi Pro 2021,Expose,64,Anggara,Assist,Normal,0,25,84,38,81,50,B-One
+BPL Semi Pro 2021,Expose,65,Budi,Goal,Normal,0,25,81,47,99,47,B-One
+BPL Semi Pro 2021,Expose,66,Jiban,Assist,Through Ball,0,25,80,85,90,45,B-One
+BPL Semi Pro 2021,Expose,67,M. Ibrahim,Goal,Through Ball,0,25,90,43,98,52,B-One
+BPL Semi Pro 2021,Expose,68,Surya,Assist,Through Ball,0,25,47,77,72,71,Bdg Applause
+BPL Semi Pro 2021,Expose,69,Anggara,Goal,Through Ball,0,25,78,70,98,56,Bdg Applause
+BPL Semi Pro 2021,Expose,70,Anggara,Goal,Normal,0,25,83,69,100,44,Bdg Applause
+BPL Semi Pro 2021,Expose,71,Anggara,Goal,Normal,0,25,87,61,98,54,Bdg Applause
+BPL Semi Pro 2021,Expose,72,Agil,Assist,Cut Back,0,25,97,64,90,62,Bdg Applause
+BPL Semi Pro 2021,Expose,73,Anggara,Goal,Cut Back,0,25,91,65,99,46,Bdg Applause
+BPL Semi Pro 2021,Expose,74,Anggara,Goal,Set Piece,0,25,81,32,98,57,Bdg Applause
+BPL Semi Pro 2021,Expose,75,Althop,Assist,Normal,0,25,51,4,82,40,Bdg Applause
+BPL Semi Pro 2021,Expose,76,M. Fikri,Goal,Normal,0,25,82,37,99,52,Bdg Applause
+BPL Semi Pro 2021,Expose,77,Agil,Assist,Cut Back,0,25,97,72,89,60,Bdg Applause
+BPL Semi Pro 2021,Expose,78,Anggara,Goal,Cut Back,0,25,89,60,98,57,Bdg Applause
+BPL Semi Pro 2021,Expose,79,Anggara,Assist,Cut Back,0,25,90,59,87,41,Bdg Applause
+BPL Semi Pro 2021,Expose,80,Yanuar,Goal,Cut Back,0,25,87,38,98,56,Bdg Applause
+BPL Semi Pro 2021,Expose,81,Cece,Goal,Penalty,0,25,89,50,99,55,Buciper
+BPL Semi Pro 2021,Expose,82,Cece,Assist,Normal,0,25,96,38,93,48,Brawlers Boys
+BPL Semi Pro 2021,Expose,83,M. Ibrahim,Goal,Normal,0,25,92,45,98,50,Brawlers Boys
+BPL Semi Pro 2021,Expose,84,Anggara,Assist,Normal,0,25,60,14,88,62,Banzai
+BPL Semi Pro 2021,Expose,85,Budi,Goal,Normal,0,25,88,60,98,45,Banzai
+BPL Semi Pro 2021,Expose,86,Gio,Assist,Normal,0,25,87,25,92,56,Banzai
+BPL Semi Pro 2021,Expose,87,Cece,Goal,Set Piece,0,25,90,57,98,51,Banzai
+BPL Semi Pro 2021,Expose,88,Anggara,Goal,Set Piece,0,25,93,17,98,57,Bdg Mengbal
+BPL Semi Pro 2021,Expose,89,Rangga,Assist,Normal,0,25,95,57,93,62,Bdg Mengbal
+BPL Semi Pro 2021,Expose,90,Anggara,Goal,Normal,0,25,95,60,99,47,Bdg Mengbal
+BPL Semi Pro 2021,Expose,91,Jiban,Goal,Normal,0,25,89,35,99,54,Alkanara
+BPL Semi Pro 2021,Expose,92,Surya,Assist,Long Pass,0,25,38,16,80,47,Alkanara
+BPL Semi Pro 2021,Expose,93,M. Fikri,Goal,Long Pass,0,25,93,40,99,54,Alkanara
